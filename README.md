@@ -40,7 +40,7 @@ To run the application, execute the following command:
 python app.py
 ```
 
-The application will be accessible at [http://localhost:5000/](http://localhost:5000/).
+The application will be accessible at [http://127.0.0.1:8081](http://127.0.0.1:8081).
 
 ## Usage
 
@@ -49,7 +49,7 @@ Once the application is running, you can navigate to the provided URL to access 
 ## Files and Directories
 
 - `app.py`: This file contains the Flask application code.
-- `templates/index.html`: This HTML file contains the frontend code for the data visualization and monitoring system.
+- `templates/Sensor_Data_Visualization.html`: This HTML file contains the frontend code for the data visualization and monitoring system.
 
 ## Contributing
 
