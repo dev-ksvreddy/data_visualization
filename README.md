@@ -1,7 +1,3 @@
-In your README file, you should provide information about your project to help users understand how to set it up and use it. Here's what you could include for the HTML and Flask code you provided:
-
----
-
 # Data Visualization and Monitoring System
 
 This project is a data visualization and monitoring system implemented using HTML for the frontend and Flask for the backend.
