@@ -38,6 +38,11 @@ python app.py
 
 The application will be accessible at localhost--> [http://127.0.0.1:8081](http://127.0.0.1:8081).
 
+## Deployed Version
+
+The deployed version of this application is accessible at [https://ksvreddy.pythonanywhere.com/](https://ksvreddy.pythonanywhere.com/).
+
+
 ## Usage
 
 Once the application is running, you can navigate to the provided URL to access the data visualization and monitoring system. The system provides visualizations for various sensor data and allows users to filter data based on different criteria.
