@@ -41,6 +41,7 @@ The application will be accessible at localhost--> [http://127.0.0.1:8081](http:
 ## Deployed Version
 
 The deployed version of this application is accessible at [https://ksvreddy.pythonanywhere.com/](https://ksvreddy.pythonanywhere.com/).
+You can this site till 3Months only
 
 
 ## Usage
