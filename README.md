@@ -40,7 +40,7 @@ To run the application, execute the following command:
 python app.py
 ```
 
-The application will be accessible at [http://127.0.0.1:8081](http://127.0.0.1:8081).
+The application will be accessible at localhost--> [http://127.0.0.1:8081](http://127.0.0.1:8081).
 
 ## Usage
 
